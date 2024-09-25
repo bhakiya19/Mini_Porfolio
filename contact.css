@@ -1,0 +1,50 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+.container{
+	height:100vh;
+	width:100wh;
+	background-color:#949409;	
+}
+.h1{
+	padding-top:40px;
+	text-align:center;
+	color:#032b57;
+	font-size:40px;
+	text-shadow:2px 5px 5px  #ba14cc;
+}
+.per{
+	margin-top:20px;
+	text-align:center;
+	color:red;
+	line-height:100px;
+}
+.hire{
+	background-color:#780994;
+	padding:20px;
+	border:none;
+	border-radius:10px;
+	font-size:15px;
+}
+.hire:hover{
+	background-color:#061a59;
+}
+.h{
+	text-decoration:none;
+	color:white;
+	
+}
+.res{
+	background-color:#09b7ba;
+	padding:20px;
+	border:none;
+	border-radius:10px;
+	margin-top:30px;
+}
+.d{
+	text-decoration:none;
+	color:white;
+	font-size:15px;
+}

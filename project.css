@@ -1,0 +1,45 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+.container{
+	height:100vh;
+	width:100wh;
+	background-color:#800b0b;
+}
+.pro{
+	text-align:center;
+	color:#fff829;
+	margin-bottom:50px;
+	padding-top:20px;
+	text-shadow:2px 5px 5px  #1aecf0;
+}
+.p1{
+	text-align:center;
+	color:white;
+	line-height:30px;
+	border:2px solid black;
+	width:500px;
+	padding:20px;
+	margin-top:10px;
+	margin-left:110px;
+}
+.para1{
+	text-align:justify;
+	margin-right:10px;	
+}
+.para2{
+	text-align:justify;
+	margin-right:10px;
+}
+.p2{
+	text-align:center;
+	color:white;
+	line-height:30px;
+	border:2px solid black;
+	width:500px;
+	padding:20px;
+	margin-top:10px;
+	margin-left:110px;
+}
